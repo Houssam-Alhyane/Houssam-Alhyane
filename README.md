@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/skizman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="skizman" height="30" width="40" /></a>
-<a href="https://discord.gg/skizman_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="skizman_23" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@skizman_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="skizman_23" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
