@@ -17,20 +17,6 @@
 ```go
 package main
 
-import "fmt"
-
-type Developer struct {
-    Name        string
-    Location    string
-    Username    string
-    Role        string
-    Languages   []string
-    Databases   []string
-    Tools       []string
-    CurrentFocus string
-    OpenToWork  bool
-}
-
 func main() {
     me := Developer{
         Name:     "Houssam Alhyane",
@@ -39,13 +25,10 @@ func main() {
         Role:     "Full-Stack Developer",
         Languages: []string{"Go", "Java", "JavaScript", "PHP", "HTML5", "CSS3"},
         Databases: []string{"MySQL", "MongoDB"},
-        Tools:     []string{"Git", "Linux", "Tailwind CSS"},
+        Tools:     []string{"Git","Docker","Linux", "Tailwind CSS"},
         CurrentFocus: "Building scalable web applications",
-        OpenToWork: true,
     }
-
     fmt.Printf("Hi! I'm %s from %s 👋\n", me.Name, me.Location)
-    fmt.Println("Passionate about writing clean, efficient code.")
 }
 ```
 
