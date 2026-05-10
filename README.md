@@ -64,18 +64,6 @@ func main() {
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[🚀 Full-Stack Apps] --> B[⚡ Performance]
-    A --> C[🔒 Security]
-    A --> D[📱 Responsive Design]
-    B --> E[🎨 User Experience]
-    C --> E
-    D --> E
-    style A fill:#00d4aa,stroke:#fff,stroke-width:2px,color:#000
-    style E fill:#7c6fff,stroke:#fff,stroke-width:2px,color:#fff
-```
-
 </div>
 
 - 🔭 Building **scalable web applications** with modern architectures
@@ -140,65 +128,12 @@ Share another project that demonstrates your diverse skill set and problem-solvi
 
 ---
 
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-| 🎯 Achievement | 📅 Year | 🔗 Link |
-|:--------------|:-------:|:-------:|
-| **Achievement 1** | 2024 | [View](https://link.com) |
-| **Achievement 2** | 2024 | [View](https://link.com) |
-| **Achievement 3** | 2023 | [View](https://link.com) |
-
-</div>
-
----
-
-## 📚 Latest Blog Posts
-
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-- 📝 [Your latest blog post title here](https://dev.to/skizman)
-- 🚀 [Another interesting article you wrote](https://dev.to/skizman)
-- 💡 [Tutorial or guide you published](https://dev.to/skizman)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [**More posts on Dev.to...**](https://dev.to/skizman)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/skizman)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@skizman_23)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=houssam-alhyane&color=00d4aa&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/skizman.js)
 
 </div>
